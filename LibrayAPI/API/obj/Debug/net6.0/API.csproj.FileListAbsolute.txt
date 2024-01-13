@@ -1,0 +1,143 @@
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.exe
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.deps.json
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.pdb
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.pdb
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Dapper.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.exe
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.deps.json
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.pdb
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Dapper.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.sourcelink.json
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.pdb
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\HP\Desktop\Library Management System\Library Management System\LibrayAPI\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.exe
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.deps.json
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\API.pdb
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.sourcelink.json
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.pdb
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\Admin\Desktop\SHKI\Zhvill.Dizajnimi\Library Management System\LibrayAPI\API\obj\Debug\net6.0\ref\API.dll
